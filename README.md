@@ -9,7 +9,7 @@ optical-resolution photoacoustic microscopy (OR-PAM) suffers from a limited dept
 - (a) Self-developed Photoacoustic microscopy imaging system  
 - (b) Fusion process based on the proposed 3DSMFCNN focused detection  
 
-![Self-developed System](Fig1)
+(https://github.com/yqx7150/3D_Fusion_Imaging/blob/main/Fig1.png)
 
 
 
@@ -18,20 +18,20 @@ optical-resolution photoacoustic microscopy (OR-PAM) suffers from a limited dept
 - (a) Detailed focus detection and fusion strategy  
 - (b) Branch structure of the 3DSMFCNN  
 
-![Focus Detection and Network](Fig2)
+https://github.com/yqx7150/3D_Fusion_Imaging/blob/main/Fig2.png
 
 
 
 ## MAP Images
 
 1. MAP images of the multi-focus fiber   
-   ![Multi-Focus Fiber Images](Fig3)
+https://github.com/yqx7150/3D_Fusion_Imaging/blob/main/Fig3.png
 
 2. MAP images of multi-focus vasculature at five noise levels.  
-   ![Multi-Focus Vasculature](Fig4)
+(https://github.com/yqx7150/3D_Fusion_Imaging/blob/main/Fig4.png)
 
 3. MAP images of 20 μm diameter tungsten wires before and after fusion.   
-   ![Tungsten Wires](Fig5)
+https://github.com/yqx7150/3D_Fusion_Imaging/blob/main/Fig5.png
 
 ## Other Related Projects
 
